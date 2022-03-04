@@ -1,3 +1,5 @@
+Reminder: Sorry for the delay in posting codes. These two weeks, I am struggling with my exam week. I will clean and upload our codes as soon as possible before 20 March.
+
 # Non-Transferable Learning
 
 This is the code of ICLR 2022 Oral paper:
