@@ -1,4 +1,4 @@
-Reminder: Sorry for the delay in posting codes. These two weeks, I am struggling with my several ongoing projects. I will clean and upload our codes as soon as possible before 20 April. If you want to get our codes soon, you can drop me an email (lixuwang2025@u.northwestern.edu) and I will give you the uncleaned version.
+Reminder: Sorry for the delay in posting codes. Thanks for your patience. We promise to post our codes before 20 June.
 
 # Non-Transferable Learning
 
