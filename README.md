@@ -1,4 +1,4 @@
-Reminder: Sorry for the delay in posting codes. Thanks for your patience. We promise to post our codes before 10 July, just like our AAAI-2021 and CVPR-2022 paper. I am very busy with my internship, sorry again.
+Reminder: Sorry for the delay in posting codes. Thanks for your patience. I have posted an intermediate version of our code. I will continue cleaning the code and make it more compact.
 
 # Non-Transferable Learning
 
