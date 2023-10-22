@@ -459,7 +459,7 @@ for aug_index in range(opt.aug_number):
                 itertools.chain(generator_aug.parameters(), discriminator_aug.parameters()), lr=opt.lr, betas=(opt.b1, opt.b2)
             )
         for epoch in range(opt.n_epochs_aug):
-            for param in discriminator.parameters():
+            for param in discriminator_aug.parameters():
                 param.requires_grad = False
             for i, (imgs, labels) in enumerate(dataloader):
 
